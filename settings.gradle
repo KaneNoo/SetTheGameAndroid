@@ -1,0 +1,2 @@
+rootProject.name='SetTheGameAndroid'
+include ':app'
